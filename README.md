@@ -1,7 +1,7 @@
 ![MasterHead](https://webcoder.co.in/wp-content/uploads/2021/04/website.gif)
 <h1 align="center">Hi 👋, I'm Sanjai Kumar N</h1>
 <h3 align="center">A passionate full-stack developer from India</h3>
-
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 - 🔭 I’m currently working on **React Projects**
 
