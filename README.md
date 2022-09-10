@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **React Projects**
 
-- 🌱 I’m currently learning **Angular**
+- 🌱 I’m currently learning **Python Flask**
 
 - 💬 Ask me about **Full stack development**
 
